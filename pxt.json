@@ -12,7 +12,8 @@
         "main.ts",
         "README.md",
         "mintrobi-smiley-tutorial.md",
-        "_locales/de-DE/mintrobi-smiley-tutorial.md"
+        "_locales/de-DE/mintrobi-smiley-tutorial.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
