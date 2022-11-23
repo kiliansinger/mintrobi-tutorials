@@ -1,5 +1,5 @@
 {
-    "name": "Mintrobi Smiley",
+    "name": "Mintrobi Film Laserkanone",
     "version": "0.0.5",
     "description": "",
     "dependencies": {
@@ -13,7 +13,9 @@
         "README.md",
         "mintrobi-smiley-tutorial.md",
         "_locales/de-DE/mintrobi-smiley-tutorial.md",
-        "tutorial-info-cache.json"
+        "tutorial-info-cache.json",
+        "mintrobi-film-tutorial.md",
+        "_locales/de-DE/mintrobi-film-tutorial.md"
     ],
     "testFiles": [
         "test.ts"
