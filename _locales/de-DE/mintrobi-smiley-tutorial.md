@@ -1,7 +1,7 @@
 # mintrobi-smiley-tutorial
 ## Schritt 1
 
-Füge den Zeige LEDs Block zum `beim Start Block` hinzu
+Füge den Zeige LEDs Block zum ```beim Start``` Block hinzu
 ```blocks
 basic.showLeds(`
     . . . . .
