@@ -1,6 +1,6 @@
 # mintrobi-film-tutorial
 ## Step 1
-Füge den Zeige LEDs Block zum ``beim Start`` Block hinzu
+Füge den Zeige LEDs Block zum ``beim Start`` Block hinzu.
 ```blocks
 basic.forever(function () {
     basic.showLeds(`
@@ -13,7 +13,7 @@ basic.forever(function () {
 })
 ```
 ## Step 2
-Legen füge mehrere hintereinander ein um einen Film von z.B. einer Laserkanone zu machen:
+Legen füge mehrere hintereinander ein um einen Film von z.B. einer Laserkanone zu machen.
 ```blocks
 basic.forever(function () {
     basic.showLeds(`
@@ -53,7 +53,7 @@ basic.forever(function () {
         `)
 })
 ```
-## Step 3
+## Step 3 @showhint
 Wenn Du das erste mal verbindest dann gehe wie folgt vor:
 * Klicke auf die 3 weißen Punkte auf dem blauen Feld.
 * Dann auf Gerät verbinden:

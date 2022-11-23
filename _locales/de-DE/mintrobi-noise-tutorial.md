@@ -1,7 +1,7 @@
 # mintrobi-noise-tutorial
 ## Schritt 1
 Nehme z.B. den Film als Vorlage und füge den
-``||music:spiele Ton kichern||`` Block unten an:
+``||music:spiele Ton kichern||`` Block unten an.
 ```blocks
 basic.forever(function () {
     basic.showLeds(`
@@ -42,7 +42,7 @@ basic.forever(function () {
      music.playSoundEffect(music.builtinSoundEffect(soundExpression.happy), SoundExpressionPlayMode.UntilDone)
 })
 ```
-## Schritt 2
+## Schritt 2 @showhint
 Wenn Du das erste mal verbindest dann gehe wie folgt vor:
 * Klicke auf die 3 weißen Punkte auf dem blauen Feld.
 * Dann auf Gerät verbinden:

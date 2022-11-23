@@ -1,6 +1,6 @@
 # mintrobi-film-tutorial
 ## Step 1
-First insert a ``show LEDs`` block:
+First insert a ``show LEDs`` block.
 ```blocks
 basic.forever(function () {
     basic.showLeds(`
@@ -13,7 +13,7 @@ basic.forever(function () {
 })
 ```
 ## Step 2
-Then insert several in a row and make a film of a laser gun, for example:
+Then insert several in a row and make a film of e.g. a laser gun.
 ```blocks
 basic.forever(function () {
     basic.showLeds(`

@@ -1,7 +1,7 @@
 # mintrobi-noise-tutorial
 ## Step 1
 For example, take the film as a template and add the
-``||music:play Sound giggle||`` block at the bottom:
+``||music:play Sound giggle||`` block at the bottom.
 
 ```blocks
 basic.forever(function () {
@@ -43,7 +43,7 @@ basic.forever(function () {
      music.playSoundEffect(music.builtinSoundEffect(soundExpression.happy), SoundExpressionPlayMode.UntilDone)
 })
 ```
-## Step 2
+## Step 2 @showhint
 When you connect for the first time, do the following:
 * Click on the 3 white dots on the blue field.
 * Then click on Connect Device:

@@ -1,7 +1,7 @@
 # mintrobi-smiley-tutorial
 ## Schritt 1
 
-Füge den Zeige LEDs Block zum ``beim Start`` Block hinzu
+Füge den Zeige LEDs Block zum ``beim Start`` Block hinzu.
 ```blocks
 basic.showLeds(`
     . . . . .
@@ -12,7 +12,7 @@ basic.showLeds(`
     `)
 ```
 ## Schritt 2
-Dann zeichne einen Smiley:
+Dann zeichne einen Smiley.
 ```blocks
 basic.showLeds(`
     . . . . .
@@ -22,7 +22,7 @@ basic.showLeds(`
     . # # # .
     `)
 ```
-## Schritt 3
+## Schritt 3 @showhint
 Wenn Du das erste mal verbindest dann gehe wie folgt vor:
 * Klicke auf die 3 weißen Punkte auf dem blauen Feld.
 * Dann auf Gerät verbinden:
