@@ -63,7 +63,7 @@ Wenn Du das erste mal verbindest dann gehe wie folgt vor:
 ![Gerät verbinden starten](https://kiliansinger.github.io/mintrobi-tutorials/connect_de.png)
 
 Der `|Herunterladen|` Knopf sollte dann so aussehen:
-(https://kiliansinger.github.io/mintrobi-tutorials/download_de.png) 
+![Herunterladen auf Microbit](https://kiliansinger.github.io/mintrobi-tutorials/download_microbit_de.png) 
 
 Dann auf `|Herunterladen|` klicken, um Ihren Code zu übertragen!
 

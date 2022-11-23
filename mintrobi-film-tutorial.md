@@ -63,7 +63,7 @@ When you connect for the first time, do the following:
 ![Start Connecting Device](https://kiliansinger.github.io/mintrobi-tutorials/connect_de.png)
 
 The `|Download|` button should then look like this:
-(https://kiliansinger.github.io/mintrobi-tutorials/download_de.png) 
+![Download on Microbit](https://kiliansinger.github.io/mintrobi-tutorials/download_microbit.png) 
 
 Then click on `|Download|` to transfer your code!
 
