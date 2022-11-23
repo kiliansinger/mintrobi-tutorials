@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="L:-G54(ogr}8yY01WD51">clapped</variable><variable id="Hi#)}MSi)+Y5mhMd=bQu">ref</variable><variable id="asN;j1jvxJ(iLN2dQ{GB">licht</variable><variable id="~,@%^CGDvFs7YhZN(mwG">servo</variable></variables><block type="pxt-on-start" id="#J)f7qU`0GW/TC1duSI+" x="0" y="0"></block><block type="device_show_leds" id="-Taz%a*6oo^YaU5]at0v" disabled="true" x="212" y="166"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></xml>
