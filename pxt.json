@@ -10,7 +10,9 @@
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "mintrobi-smiley-tutorial.md",
+        "_locales/de-DE/mintrobi-smiley-tutorial.md"
     ],
     "testFiles": [
         "test.ts"
@@ -26,7 +28,7 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj",
+    "preferredEditor": "tsprj",
     "yotta": {
         "config": {
             "microbit-dal": {

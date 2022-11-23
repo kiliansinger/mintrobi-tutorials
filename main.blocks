@@ -1,1 +1,7 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="L:-G54(ogr}8yY01WD51">clapped</variable><variable id="Hi#)}MSi)+Y5mhMd=bQu">ref</variable><variable id="asN;j1jvxJ(iLN2dQ{GB">licht</variable><variable id="~,@%^CGDvFs7YhZN(mwG">servo</variable></variables><block type="pxt-on-start" id="#J)f7qU`0GW/TC1duSI+" x="0" y="0"></block></xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="^mA2W7s_]+Uu:g(QxvVJ" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="B+o|!E5Zy10V6YQ-HO`G"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
