@@ -1,6 +1,8 @@
 # mintrobi-noise-tutorial
-Nehme z.B. den Film als vorlage und füge den
-``||music:play Sound giggle||`` Block unten an:
+## Step 1
+For example, take the film as a template and add the
+``||music:play Sound giggle||`` block at the bottom:
+
 ```blocks
 basic.forever(function () {
     basic.showLeds(`
@@ -41,3 +43,6 @@ basic.forever(function () {
      music.playSoundEffect(music.builtinSoundEffect(soundExpression.happy), SoundExpressionPlayMode.UntilDone)
 })
 ```
+## Step 2
+Click `|Download|` to transfer your code!
+Press the reset button to restart.
