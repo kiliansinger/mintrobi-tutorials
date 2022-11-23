@@ -44,5 +44,9 @@ basic.forever(function () {
 })
 ```
 ## Step 2
-Click `|Download|` to transfer your code!
+Wenn Du das erste mal verbindest dann Klicke auf ![Gerät verbinden starten](https://kiliansinger.github.io/mintrobi-tutorials/connect_start.png)
+um mit Microbit zu verbinden und klicke immer auf `|Next|` klicke schließlich im folgenden Dialog das USB-Gerät auswählen:
+![Gerät verbinden starten](https://kiliansinger.github.io/mintrobi-tutorials/connect.png)
+
+Then Click `|Download|` to transfer your code!
 Press the reset button to restart.
