@@ -1,5 +1,5 @@
 {
-    "name": "Mintrobi Film Laserkanone",
+    "name": "mintrobi tutorial",
     "version": "0.0.6",
     "description": "",
     "dependencies": {
@@ -15,7 +15,9 @@
         "_locales/de-DE/mintrobi-smiley-tutorial.md",
         "tutorial-info-cache.json",
         "mintrobi-film-tutorial.md",
-        "_locales/de-DE/mintrobi-film-tutorial.md"
+        "_locales/de-DE/mintrobi-film-tutorial.md",
+        "mintrobi-noise-tutorial.md",
+        "_locales/de-DE/mintrobi-noise-tutorial.md"
     ],
     "testFiles": [
         "test.ts"
