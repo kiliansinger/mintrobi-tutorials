@@ -53,7 +53,7 @@ basic.forever(function () {
         `)
 })
 ```
-## Step 3
+## Step 3 @unplugged
 When you connect for the first time, do the following:
 * Click on the 3 white dots on the blue field.
 * Then click on Connect Device:
