@@ -27,7 +27,7 @@ Wenn Du das erste mal verbindest dann gehe wie folgt vor:
 * Klicke auf die 3 weißen Punkte auf dem blauen Feld.
 * Dann auf Gerät verbinden:
 ![Gerät verbinden starten](https://kiliansinger.github.io/mintrobi-tutorials/connect_start_de.png)
-* Dann klicke immer wieder auf `|Weiter|`
+* Dann klicke immer wieder auf `||Weiter||`
 * Dann öffnet sich ein Dialog hier wie folgt auswählen:
 ![Gerät verbinden starten](https://kiliansinger.github.io/mintrobi-tutorials/connect_de.png)
 
